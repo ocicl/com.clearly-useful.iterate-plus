@@ -5,5 +5,5 @@ extensions to iterate for consuming seqs and iterators in common lisp
 |---------+------------------------------------------------------------------------|
 | source  | git:https://github.com/jaeschliman/com.clearly-useful.iterate-plus.git |
 | commit  | 78e394e                                                                |
-| systems | (com.clearly-useful.iterate+)                                          |
+| systems | com.clearly-useful.iterate+                                            |
 |---------+------------------------------------------------------------------------|
